@@ -7,13 +7,13 @@ This means that even if you're using a centralized workflow, every user essentia
 Any Workflow
 Because of Git's distributed nature and superb branching system, an almost endless number of workflows can be implemented with relative ease.
 
-Subversion-Style Workflow
+Subversion样式的工作流程
 A centralized workflow is very common, especially from people transitioning from a centralized system. Git will not allow you to push if someone has pushed since the last time you fetched, so a centralized model where all developers push to the same server works just fine.
 
 Workflow A
 
 Integration Manager Workflow
-另一个 common Git workflow involves an integration manager — a single person who commits to the 'blessed' repository. A number of developers then clone from that repository, push to their own independent repositories, and ask the integrator to pull in their changes. This is the type of development model often seen with open source or GitHub repositories.
+另一个常用Git workflow involves an integration manager — a single person who commits to the 'blessed' repository. A number of developers then clone from that repository, push to their own independent repositories, and ask the integrator to pull in their changes. This is the type of development model often seen with open source or GitHub repositories.
 
 Workflow B
 
