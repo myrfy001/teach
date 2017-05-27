@@ -13,7 +13,7 @@ A centralized workflow is very common, especially from people transitioning from
 Workflow A
 
 Integration Manager Workflow
-Another common Git workflow involves an integration manager — a single person who commits to the 'blessed' repository. A number of developers then clone from that repository, push to their own independent repositories, and ask the integrator to pull in their changes. This is the type of development model often seen with open source or GitHub repositories.
+另一个常用Git workflow involves an integration manager — a single person who commits to the 'blessed' repository. A number of developers then clone from that repository, push to their own independent repositories, and ask the integrator to pull in their changes. This is the type of development model often seen with open source or GitHub repositories.
 
 Workflow B
 
